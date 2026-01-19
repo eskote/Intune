@@ -1,2 +1,1 @@
-# Intune
-# Intune
+# This is a collection of applications and scripts that can be deployed with Intune. Use the Intune ContentPrepTool to build script files into .intunewin packages or use the New-IntuneWin32App module to deploy them to your Intune environment.
